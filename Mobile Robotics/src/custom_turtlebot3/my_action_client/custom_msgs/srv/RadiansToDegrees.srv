@@ -1,4 +1,0 @@
-float64 angle_radians 	    # Request message: Angle in radians to be converted to degrees.
----
-float64 angle_degrees       # Response message: Angle in degrees after conversion.
-bool success	            # Response message: State (success or failure) of the conversion.

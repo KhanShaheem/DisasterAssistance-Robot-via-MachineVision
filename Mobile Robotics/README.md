@@ -1,2 +1,0 @@
-# DisasterAssistance-Robot-via-MachineVision
- 

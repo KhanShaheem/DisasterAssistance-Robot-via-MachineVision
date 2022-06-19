@@ -1,5 +1,0 @@
-<launch>
-    <node name="navigation_goal" pkg="python_scripts" type="navigation_goal.py" output="screen" cwd="node">
-    </node>
-</launch>
-
